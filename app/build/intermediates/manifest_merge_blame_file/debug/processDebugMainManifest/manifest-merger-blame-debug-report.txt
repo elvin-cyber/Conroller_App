@@ -1,0 +1,52 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.projectlauncher"
+4    android:versionCode="4"
+5    android:versionName="4.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="23"
+9        android:targetSdkVersion="35" />
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\Administrator\Downloads\new\ProjectLauncher\app\src\main\AndroidManifest.xml:2:5-67
+11-->C:\Users\Administrator\Downloads\new\ProjectLauncher\app\src\main\AndroidManifest.xml:2:22-64
+12
+13    <application
+13-->C:\Users\Administrator\Downloads\new\ProjectLauncher\app\src\main\AndroidManifest.xml:3:5-10:19
+14        android:allowBackup="true"
+14-->C:\Users\Administrator\Downloads\new\ProjectLauncher\app\src\main\AndroidManifest.xml:3:152-178
+15        android:debuggable="true"
+16        android:extractNativeLibs="false"
+17        android:icon="@mipmap/ic_launcher"
+17-->C:\Users\Administrator\Downloads\new\ProjectLauncher\app\src\main\AndroidManifest.xml:3:77-111
+18        android:label="Controller"
+18-->C:\Users\Administrator\Downloads\new\ProjectLauncher\app\src\main\AndroidManifest.xml:3:50-76
+19        android:roundIcon="@mipmap/ic_launcher"
+19-->C:\Users\Administrator\Downloads\new\ProjectLauncher\app\src\main\AndroidManifest.xml:3:112-151
+20        android:supportsRtl="true"
+20-->C:\Users\Administrator\Downloads\new\ProjectLauncher\app\src\main\AndroidManifest.xml:3:179-205
+21        android:theme="@style/AppTheme" >
+21-->C:\Users\Administrator\Downloads\new\ProjectLauncher\app\src\main\AndroidManifest.xml:3:18-49
+22        <activity
+22-->C:\Users\Administrator\Downloads\new\ProjectLauncher\app\src\main\AndroidManifest.xml:4:9-9:20
+23            android:name="com.example.projectlauncher.MainActivity"
+23-->C:\Users\Administrator\Downloads\new\ProjectLauncher\app\src\main\AndroidManifest.xml:4:19-47
+24            android:exported="true"
+24-->C:\Users\Administrator\Downloads\new\ProjectLauncher\app\src\main\AndroidManifest.xml:4:85-108
+25            android:screenOrientation="portrait" >
+25-->C:\Users\Administrator\Downloads\new\ProjectLauncher\app\src\main\AndroidManifest.xml:4:48-84
+26            <intent-filter>
+26-->C:\Users\Administrator\Downloads\new\ProjectLauncher\app\src\main\AndroidManifest.xml:5:13-8:29
+27                <action android:name="android.intent.action.MAIN" />
+27-->C:\Users\Administrator\Downloads\new\ProjectLauncher\app\src\main\AndroidManifest.xml:6:17-69
+27-->C:\Users\Administrator\Downloads\new\ProjectLauncher\app\src\main\AndroidManifest.xml:6:25-66
+28
+29                <category android:name="android.intent.category.LAUNCHER" />
+29-->C:\Users\Administrator\Downloads\new\ProjectLauncher\app\src\main\AndroidManifest.xml:7:17-77
+29-->C:\Users\Administrator\Downloads\new\ProjectLauncher\app\src\main\AndroidManifest.xml:7:27-74
+30            </intent-filter>
+31        </activity>
+32    </application>
+33
+34</manifest>

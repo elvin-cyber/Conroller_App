@@ -1,0 +1,8 @@
+com.example.projectlauncher:mipmap/ic_launcher_round = 0x7f030002
+com.example.projectlauncher:style/AppTheme = 0x7f040000
+com.example.projectlauncher:mipmap/ic_launcher_foreground = 0x7f030001
+com.example.projectlauncher:drawable/ic_launcher_foreground = 0x7f020001
+com.example.projectlauncher:color/ic_launcher_background = 0x7f010000
+com.example.projectlauncher:drawable/ic_launcher = 0x7f020000
+com.example.projectlauncher:mipmap/ic_launcher = 0x7f030000
+com.example.projectlauncher:color/launcher_bg = 0x7f010001

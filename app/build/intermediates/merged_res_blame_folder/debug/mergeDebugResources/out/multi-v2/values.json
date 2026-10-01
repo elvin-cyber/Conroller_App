@@ -1,0 +1,91 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Administrator\\.gradle\\daemon\\9.3.0\\com.example.projectlauncher.app-mergeDebugResources-2:\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Administrator\\Downloads\\new\\ProjectLauncher\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endColumns": "45",
+                        "endOffsets": "57"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "45",
+                        "endOffsets": "96"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Administrator\\Downloads\\new\\ProjectLauncher\\app\\src\\main\\res\\values\\themes.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "460"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "101",
+                        "endLines": "10",
+                        "endColumns": "12",
+                        "endOffsets": "545"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.example.projectlauncher.app-mergeDebugResources-2:/values/values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Administrator\\Downloads\\new\\ProjectLauncher\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "-1",
+                        "startColumns": "-1",
+                        "startOffsets": "-1"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "112",
+                        "endColumns": "45",
+                        "endOffsets": "153"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Administrator\\Downloads\\new\\ProjectLauncher\\app\\src\\main\\res\\values\\themes.xml",
+                    "from": {
+                        "startLines": "-1",
+                        "startColumns": "-1",
+                        "startOffsets": "-1"
+                    },
+                    "to": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "158",
+                        "endLines": "11",
+                        "endColumns": "12",
+                        "endOffsets": "602"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Administrator\\Downloads\\new\\ProjectLauncher\\app\\src\\main\\res\\values\\ic_launcher_background.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "56",
+                        "endOffsets": "107"
+                    }
+                }
+            ]
+        }
+    ]
+}

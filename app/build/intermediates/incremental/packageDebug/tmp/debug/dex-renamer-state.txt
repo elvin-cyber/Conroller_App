@@ -1,0 +1,7 @@
+#Thu Oct 01 11:25:36 GMT+04:00 2026
+base.0=C\:\\Users\\Administrator\\Downloads\\new\\ProjectLauncher\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+base.1=C\:\\Users\\Administrator\\Downloads\\new\\ProjectLauncher\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\11\\classes.dex
+path.0=0/classes.dex
+path.1=11/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex
